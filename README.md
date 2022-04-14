@@ -16,8 +16,14 @@ Full Dosyalar Rar Dosyasında.
 
 ![image](https://user-images.githubusercontent.com/54424377/153484114-c214d4db-ce14-45da-8821-6adba08ca14b.png)
 
+#### Halı Resim Ekleme Gösterme Arayüzü;
+
 ![image](https://user-images.githubusercontent.com/54424377/153484141-929c8d16-fca2-4d05-8ec5-755a033ea6c9.png)
 
+#### Halı Kargo Dökümanı Hazırlama Arayüzü;
+
 ![image](https://user-images.githubusercontent.com/54424377/153484158-0442ab32-ca5b-4674-835b-e6608dfe03d5.png)
+
+#### Halı Yıkama Arayüzü;
 
 ![image](https://user-images.githubusercontent.com/54424377/153484174-8e554719-17e4-4d8c-9457-172ea758000f.png)
